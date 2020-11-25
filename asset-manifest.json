@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robo-World/static/css/main.0eae38ec.chunk.css",
+    "main.js": "/Robo-World/static/js/main.e2387134.chunk.js",
+    "main.js.map": "/Robo-World/static/js/main.e2387134.chunk.js.map",
+    "runtime-main.js": "/Robo-World/static/js/runtime-main.da66f357.js",
+    "runtime-main.js.map": "/Robo-World/static/js/runtime-main.da66f357.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Robo-World/static/css/2.31461e4f.chunk.css",
+    "static/js/2.f7e12bef.chunk.js": "/Robo-World/static/js/2.f7e12bef.chunk.js",
+    "static/js/2.f7e12bef.chunk.js.map": "/Robo-World/static/js/2.f7e12bef.chunk.js.map",
+    "static/js/3.84ee724a.chunk.js": "/Robo-World/static/js/3.84ee724a.chunk.js",
+    "static/js/3.84ee724a.chunk.js.map": "/Robo-World/static/js/3.84ee724a.chunk.js.map",
+    "index.html": "/Robo-World/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Robo-World/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.0eae38ec.chunk.css.map": "/Robo-World/static/css/main.0eae38ec.chunk.css.map",
+    "static/js/2.f7e12bef.chunk.js.LICENSE.txt": "/Robo-World/static/js/2.f7e12bef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robo-World/static/media/planetncompactcond.95d714ca.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da66f357.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.f7e12bef.chunk.js",
+    "static/css/main.0eae38ec.chunk.css",
+    "static/js/main.e2387134.chunk.js"
+  ]
+}
