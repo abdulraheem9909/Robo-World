@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Planet N Compact Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Planet N Compact Regular'), url('./planetncompactcond.woff') format('woff');
+    }
+
+h1{
+    font-family: 'Planet N Compact Regular';
+    font-weight: 200;
+    color: rgb(38, 44, 79);
+}
